@@ -1,6 +1,6 @@
 {
   "name": "gaia-modal",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "homepage": "https://github.com/gaia-components/gaia-modal",
   "authors": [
     "Justin D'Arcangelo <jdarcangelo@mozilla.com>"
@@ -18,7 +18,7 @@
     "!.jshintrc"
   ],
   "dependencies": {
-    "gaia-component": "gaia-components/gaia-component#~0.3.1"
+    "gaia-component": "gaia-components/gaia-component#~0.3.2"
   },
   "devDependencies": {
     "base": "gaia-components/base",
