@@ -18,7 +18,7 @@
     "!.jshintrc"
   ],
   "dependencies": {
-    "gaia-component": "gaia-components/gaia-component#~0.3.2"
+    "gaia-component": "gaia-components/gaia-component#~0.3.3"
   },
   "devDependencies": {
     "base": "gaia-components/base",
